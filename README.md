@@ -1,7 +1,6 @@
 # EduLearn - Modern Educational Platform Frontend
 
 <div align="center">
-  <img src="src/assets/logo.png" alt="EduLearn Logo" width="200"/>
   
   [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue.svg)](https://www.typescriptlang.org/)
@@ -13,6 +12,7 @@
 
 EduLearn is a modern, responsive educational platform that connects teachers and students in a seamless learning environment. Built with React, TypeScript, and Tailwind CSS, it offers a beautiful and intuitive interface for managing classes, lectures, and assignments.
 
+ Preview : https://ikbalmed.github.io/edulearn/
 ## ✨ Features
 
 - **User Authentication**
