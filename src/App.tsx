@@ -159,7 +159,7 @@ const App = () => (
         <TooltipProvider>
           <Toaster />
           <Sonner />
-          <BrowserRouter>
+          <BrowserRouter basename="/edulearn">
             <NavigationBar />
             <AppRoutes />
           </BrowserRouter>
