@@ -20,11 +20,7 @@ const Lectures = () => {
     className: "Advanced Literary Studies",
     teacherId: "teacher1",
     teacherName: "Dr. Jane Smith",
-<<<<<<< HEAD
     createdAt: "2025-03-20T14:30:00",
-=======
-    createdAt: "2023-05-10T14:30:00",
->>>>>>> 58fa0d8a662e0a9b1e524a6479fdf45c272f2faf
     duration: 45
   };
 
