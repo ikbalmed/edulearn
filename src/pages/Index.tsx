@@ -142,7 +142,10 @@ const Index = () => {
               <span className="font-semibold text-lg text-earthy-dark">EduLearn</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} EduLearn. All rights reserved.
+              © {new Date().getFullYear()} EduLearn.
+            </p>
+            <p className="text-sm text-muted-foreground">
+              Made by <a href="https://github.com/ikbalmed" target="_blank" rel="noopener noreferrer" className="text-earthy hover:text-earthy-dark">Mohamed Ikbal</a>
             </p>
             <div className="flex items-center gap-4">
               <Link to="/login" className="text-sm text-earthy hover:text-earthy-dark">Login</Link>

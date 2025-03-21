@@ -13,6 +13,8 @@
 
 EduLearn is a modern, responsive educational platform that connects teachers and students in a seamless learning environment. Built with React, TypeScript, and Tailwind CSS, it offers a beautiful and intuitive interface for managing classes, lectures, and assignments.
 
+  Preview : https://ikbalmed.github.io/edulearn/
+
 ## ✨ Features
 
 - **User Authentication**
@@ -53,7 +55,6 @@ EduLearn is a modern, responsive educational platform that connects teachers and
 1. Clone the repository:
 ```bash
 git clone https://github.com/ikbalmed/edulearn.git
-cd edulearn-frontend
 ```
 
 2. Install dependencies:
