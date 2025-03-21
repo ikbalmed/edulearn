@@ -7,13 +7,14 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue.svg)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
   [![Vite](https://img.shields.io/badge/Vite-4.3.0-646CFF.svg)](https://vitejs.dev/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </div>
 
 ## 🌟 Overview
 
 EduLearn is a modern, responsive educational platform that connects teachers and students in a seamless learning environment. Built with React, TypeScript, and Tailwind CSS, it offers a beautiful and intuitive interface for managing classes, lectures, and assignments.
 
-  Preview : https://ikbalmed.github.io/edulearn/
+Preview : https://ikbalmed.github.io/edulearn/
 
 ## ✨ Features
 
