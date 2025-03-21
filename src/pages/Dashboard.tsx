@@ -1,8 +1,9 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { Card, CardContent } from '@/components/ui/card';
+import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
+import { Card, CardHeader, CardContent, CardFooter } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 import { useAuth } from '@/context/AuthContext';
 import { 
   BookOpen, 
@@ -19,7 +20,7 @@ const Dashboard = () => {
   const { user } = useAuth();
   const isTeacher = user?.role === 'teacher';
 
-  // Stats for dashboard
+  // stats for dashboard
   const stats = [
     {
       title: isTeacher ? 'Classes' : 'Enrolled Classes',
@@ -190,18 +191,9 @@ const Dashboard = () => {
               )}
             </CardContent>
           </Card>
-<<<<<<< HEAD
-=======
         </section>
 
-        <section>
-          <h2 className="text-2xl font-bold mb-6 text-earthy-dark">Coming Soon</h2>
-          <p className="text-muted-foreground">
-            We're working on adding more dashboard features. Please check back soon for updates.
-          </p>
->>>>>>> 58fa0d8a662e0a9b1e524a6479fdf45c272f2faf
-        </section>
-
+       
         
       </main>
     </motion.div>
